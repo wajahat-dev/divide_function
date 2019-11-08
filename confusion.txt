@@ -31,3 +31,5 @@ green color - denote stagging area
 red color   - working directory or tree
 
 status - s      ==> short hand for status
+
+ls -laxt
