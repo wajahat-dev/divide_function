@@ -21,3 +21,5 @@ diff --staged     ==> compare working directory with last commit
 git commit -a -m "String"  ==> it skip stagging area but it's recommended not to 
 				use it frequently becasue git's stagging area
 				superb.
+rm  file_name 	  ==> remove file from the working directory and git stagging area
+rm --cached filename ==> just remove from the stagging area
