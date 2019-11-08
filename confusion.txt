@@ -23,3 +23,11 @@ git commit -a -m "String"  ==> it skip stagging area but it's recommended not to
 				superb.
 rm  file_name 	  ==> remove file from the working directory and git stagging area
 rm --cached filename ==> just remove from the stagging area.
+
+
+green color(M)red color(M)
+
+green color - denote stagging area
+red color   - working directory or tree
+
+status - s      ==> short hand for status
