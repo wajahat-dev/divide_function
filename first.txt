@@ -3,6 +3,3 @@ added line
 updated file
 
 stash in first.txt
-
-
-line is deleted after being commited
