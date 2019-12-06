@@ -2,6 +2,10 @@ added line
 
 updated file
 
+<<<<<<< HEAD
 stash in first.txt
 
 line is being deleting
+=======
+stash in first.txt
+>>>>>>> parent of 6ab51c1... Revert "Revert "line for being deleted"""
