@@ -2,4 +2,10 @@ added first line
 
 added some lines
 
+<<<<<<< Updated upstream
 cheking
+=======
+
+stash in second.txt
+added some more line for stash
+>>>>>>> Stashed changes
