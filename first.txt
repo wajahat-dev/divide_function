@@ -3,3 +3,5 @@ added line
 updated file
 
 stash in first.txt
+
+line is being deleting
